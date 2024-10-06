@@ -18,10 +18,10 @@ My Flask App is a simple web application built using Flask, Flask-WTF for form h
 
 - Python
 - Flask
-- Flask-WTF
-- Flask-Login
-- SQLAlchemy
-- SQLite (or any other database of your choice)
+- Flask-WTF - Form Handling
+- Flask-Login - Session management
+- SQLAlchemy - Database ORM
+- Bcrypt - Password encryption
 
 ## Installation
 
